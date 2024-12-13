@@ -1,57 +1,75 @@
-# Hi there! 👋 I'm Ruchit Patadiya
+# Hi there, I'm **Ruchit Patadiya** 👋
 
-Welcome to my GitHub profile! I'm a **Web Application Developer** and a **Django Enthusiast**, passionate about building scalable web applications and integrating innovative solutions using **Python** and **JavaScript**. 🚀
-
----
-
-## 🌟 About Me  
-- 🎓 Pursuing **M.Sc. in Blockchain Technology** at MIT World Peace University.  
-- 💻 Experienced in crafting **E-commerce systems**, **blockchain integrations**, and **fitness-related platforms**.  
-- 🌐 Always exploring **new technologies** and contributing to **open-source projects**.  
-- 🎯 Aspiring to solve real-world problems through **technology** and **collaboration**.  
+## 🚀 Full-Stack Developer | Blockchain Enthusiast | Cloud Practitioner
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+🌟 Welcome to my GitHub profile! I am a versatile **Full-Stack Developer** 💻 with expertise spanning **backend**, **frontend**, and **blockchain development** 🔗. My mission is to build scalable, efficient, and secure systems 🚀 while adapting to ever-changing industry needs 🌐.
 
 ---
 
-## 🌍 Connect With Me  
-- **Website**: [ruchitpx.com](https://ruchitpx.com)  
-- **Email**: [ruchitpx@gmail.com](mailto:ruchitpx@gmail.com)  
-- **LinkedIn**: [Ruchit Patadiya](https://linkedin.com/in/ruchitpatadiya)  
+### 💡 **Technologies & Expertise**
+
+#### 🖥️ **Programming Languages**
+- C, C++, Java, JavaScript, Python, Solidity, Rust, Ruby, Go
+
+#### 🔥 **Backend Development**
+- Django, FastAPI, Spring Boot, Node.js, Express.js
+- RESTful APIs, GraphQL, Firebase, Supabase
+- WebSockets, Redis
+
+#### 🎨 **Frontend Development**
+- HTML, CSS, Bootstrap, TailwindCSS
+- React.js, Next.js, jQuery, AJAX
+
+#### 📊 **Databases**
+- Relational: MySQL, PostgreSQL, SQLite
+- NoSQL: MongoDB, Cassandra
+
+#### 💡 **Blockchain Development**
+- Ethereum, Solana, Hyperledger Fabric, Binance Smart Chain
+- Smart Contracts with Solidity
+- Decentralized Applications (dApps)
+- Cryptographic Protocols, DeFi Ecosystems
+
+#### ☁️ **Cloud & DevOps**
+- AWS, GCP
+- CI/CD Pipelines, Git, Cloudflare
+- Deployment & Infrastructure Optimization
+
+#### 🔐 **Security & Integration**
+- Authentication: JWT, OAuth, SSL
+- Payment Gateways: PayPal, Razorpay, Stripe
+- Messaging: Twilio, Sendbird, Tawk.io
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchitpx&show_icons=true&theme=radical&count_private=true&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitpx&theme=radical" alt="GitHub Streak" />
-</div>
+### 📈 **What I Offer**
+- Cutting-edge solutions that push technological boundaries 🔥
+- Scalable and secure systems to meet modern standards
+- Passionate collaboration to drive change and innovation 🌟
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🌟 [EComSystem](https://github.com/ruchitpx/EComSystem)  
-A scalable e-commerce platform built with **Django**, **REST APIs**, and **blockchain technology** integration.  
-
-### 💪 [AzwaFitness](https://github.com/ruchitpx/AzwaFitness)  
-A fitness management system with custom dashboards for trainers and members.  
+### 📫 **Connect with Me**
+- 🌐 Website: [ruchitpx.com](https://ruchitpx.com)
+- 🐦 Twitter: [@RuchitPatadiya](https://twitter.com/ruchitpx)
+- 💼 LinkedIn: [Ruchit Patadiya](https://linkedin.com/in/ruchitpx)
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me to collaborate on exciting projects!**  
+### 📊 **GitHub Stats**
+![Ruchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchitpx&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitpx&layout=compact&theme=radical)
+
+---
+
+### 🌐 **Deployed Projects**
+- **E-commerce Platform**: [ecom.ruchitpx.com](https://ruchitpx.pythonanywhere.com)
+- **Other Projects**: [Portfolio Link](https://ruchitpx.com/projects)
+
+---
+
+### 🤝 **Let’s Collaborate!**
+I’m excited to work with innovative teams to create impactful solutions. Feel free to explore my repositories and reach out if you have an idea to share or a project to discuss!
