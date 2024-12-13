@@ -13,6 +13,11 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about building cutting-ed
 #### 🖥️ **Programming Languages**
 - C, C++, Java, JavaScript, Python, Solidity, Rust, Ruby, Go
 
+#### 💻 **Programming Languages**
+- **System-Level:** C, C++, Rust, Go
+- **Web & App:** Python, JavaScript, Ruby, Java
+- **Blockchain:** Solidity, Vyper
+
 #### 🔧 **Backend Development**
 - Frameworks: Django, FastAPI, Spring Boot, Node.js
 - Protocols: RESTful APIs, GraphQL, WebSockets
