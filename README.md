@@ -1,6 +1,6 @@
 # Hi there, I'm **Ruchit Patadiya** 👋
 
-## 🌟 Full-Stack Developer | Blockchain Innovator | Cloud Enthusiast
+## 🌟 Full-Stack Web Application Developer | Django Developer | Blockchain Innovator | Innovating E-Commerce Platform & Supply Chain Management
 
 ---
 
@@ -12,11 +12,6 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about building cutting-ed
 
 #### 🖥️ **Programming Languages**
 - C, C++, Java, JavaScript, Python, Solidity, Rust, Ruby, Go
-
-#### 💻 **Programming Languages**
-- **System-Level:** C, C++, Rust, Go
-- **Web & App:** Python, JavaScript, Ruby, Java
-- **Blockchain:** Solidity, Vyper
 
 #### 🔧 **Backend Development**
 - Frameworks: Django, FastAPI, Spring Boot, Node.js
