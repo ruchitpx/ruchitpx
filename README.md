@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about building cutting-ed
 ### 🏆 **Featured Projects**
 
 #### 🌐 **E-commerce Platform**
-- Live: [ecom.ruchitpx.com](https://ruchitpx.pythonanywhere.com)
+- Live: [EPIC STORE](https://ruchitpx.pythonanywhere.com)
 - Description: A scalable and secure e-commerce platform featuring real-time payment integration, order tracking, and personalized recommendations.
 
 ---
