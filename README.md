@@ -1,6 +1,6 @@
 # Hi there, I'm **Ruchit Patadiya** 👋
 
-## 🌟 Full-Stack Web Application Developer | Django Developer | Blockchain Innovator | Innovating E-Commerce Platform & Supply Chain Management
+## 🌟 Full-Stack Web Application Developer | Django Developer | Blockchain Enthusiast | Innovating E-Commerce Platform & Supply Chain Management
 
 ---
 
